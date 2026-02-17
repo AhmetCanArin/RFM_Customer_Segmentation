@@ -1,1 +1,7 @@
-# RFM_Customer_Segmentation
+# Customer Segmentation with RFM
+
+Business Problem
+
+
+
+
